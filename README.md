@@ -1,4 +1,4 @@
-# inject-challenge
+# inject-challenge [![Build Status](https://travis-ci.org/7091lapS/inject-challenge.svg?branch=master)](https://travis-ci.org/7091lapS/inject-challenge)
 
 This is my attempt at rewriting the Inject method in ruby.
 
